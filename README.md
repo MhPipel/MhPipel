@@ -1,43 +1,68 @@
-# Hello! I'm MuhammadHusein 👋
-**Solidity Developer** | DeFi, NFT & Web3 Enthusiast
+#  Hi, I'm MhPipel — Solidity Smart Contract Developer
 
-Hi! I'm a professional **Solidity developer** with hands-on experience in building **secure, optimized, and scalable smart contracts**. I am passionate about working on **DeFi protocols, NFT platforms, and Web3 applications**, and I love solving complex blockchain problems.
+I'm MhPipel, a Solidity smart contract developer focused on building secure, production-style blockchain applications.
 
----
-
-## 🛠️ Skills
-- **Languages:** Solidity, JavaScript  
-- **Frameworks & Tools:** Hardhat, Truffle, Web3.js, Ethers.js, OpenZeppelin  
-- **Standards & Contracts:** ERC-20, ERC-721, ERC-1155  
-- **Practical Experience:** Smart Contract Development, Auditing, DeFi Protocols, NFT Marketplaces, Staking & Reward Systems  
-- **Additional Tools:** Git, GitHub, Unit Testing, Remix IDE  
+My core expertise lies in DeFi protocols, NFT standards, and token economics. I specialize in writing clean, secure, and well-documented smart contracts using modern Solidity (0.8.x) and OpenZeppelin best practices.
 
 ---
 
-## 🚀 Projects
-### 1️⃣ DeFi Lending Contract
-- Deposit and borrow assets with dynamic interest calculation  
-- Fully tested using **Hardhat**  
-[GitHub Project Link](#)
+##  Technical Skills
 
-### 2️⃣ NFT Marketplace
-- Buy and sell **NFTs** using ERC-721 and ERC-1155 standards  
-- Built-in **royalty system** for creators  
-[GitHub Project Link](#)
-
-### 3️⃣ Staking & Reward Token
-- ERC-20 token with **staking and reward distribution**  
-- Secure and optimized contract using **SafeMath**  
-[GitHub Project Link](#)
-
-> 💡 Each project includes a complete README, unit tests, and a simple demo to demonstrate practical skills and real-world development capabilities.
+- Solidity (0.8.x)
+- Smart Contract Security
+- DeFi Protocol Design
+- ERC20 / ERC721 / ERC2981 Standards
+- Token Vesting & Staking Mechanisms
+- OpenZeppelin Contracts
+- Remix IDE
+- Git & GitHub
 
 ---
 
-## 📫 Contact
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Email: example@email.com  
+##  Featured Projects
+
+###  DeFi ERC20 Staking Pool
+A secure staking protocol that allows users to stake ERC20 tokens and earn time-based rewards.
+- Reentrancy-protected staking and withdrawals
+- Reward-per-token accounting model
+- Owner-controlled reward rate
+
+###  NFT Marketplace (ERC721 + ERC2981)
+An NFT smart contract implementing on-chain royalty payments using the ERC2981 standard.
+- ERC721-compliant NFTs
+- Creator royalty enforcement
+- OpenZeppelin-based implementation
+
+###  ERC20 Token Vesting Contract
+A production-style ERC20 token vesting smart contract with cliff and linear release.
+- Designed for team members and early investors
+- Time-based token distribution
+- Secure and transparent vesting logic
 
 ---
 
-**⚡ Goal:** To develop secure, scalable, and efficient smart contracts while collaborating with international projects in **Web3 and blockchain**.
+##  Development Approach
+
+- Security-first smart contract design
+- Clean and maintainable codebases
+- Industry-standard design patterns
+- Real-world blockchain use cases
+- Clear and professional documentation
+
+---
+
+##  Open to Opportunities
+
+I am open to remote opportunities and collaborations, including:
+- DeFi platforms
+- NFT marketplaces
+- Blockchain startups
+- Smart contract development roles
+
+📫 Feel free to contact me via GitHub or email for collaboration or opportunities.
+
+---
+
+##  License
+
+All projects are released under the MIT License.
